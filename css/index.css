@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	color: white;
+	margin: 0;
+}
+
+h1 {
+	background-color: green;
+	font-size: 50px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h2 {
+	border-bottom: 1px solid white;
+	margin: 0;
+}
+
+#rules_col {
+	border-bottom: 1px solid white;
+	margin-top: 30px;
+	margin-bottom: 45px;
+}
+
+#rules_title {
+	padding-bottom: 10px;
+}
+
+.rules {
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+img {
+	width: 180px;
+	display: block;
+	margin: 0 auto;
+}
