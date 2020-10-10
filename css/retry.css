@@ -12,7 +12,14 @@ h1 {
 	padding-bottom: 20px;
 }
 
-h3 {
+#thanks {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 40px;
+	padding-bottom: 20px;
+}
+
+#score {
 	margin: 0 auto;
 	text-align: center;
 	font-size: 30px;
